@@ -1,0 +1,22 @@
+<html>
+    <head>
+       <title> Giới thiệu bản thân </title> 
+    </head>
+    <body>
+      <p Align ="Center"> <h3> Giới thiệu bản thân </h3> </p> 
+        <p ><font face =  "ZagRegular">
+            <UL>
+                <LI> Họ và Tên: Đào Thùy Linh
+                <LI> Ngày sinh: 23/08/1996
+                <LI> Mã Sinh Viên: 17A4040041
+                <LI> Cấp I học tại Tiểu học Kim Liên
+                <LI> Cấp II học Trung học cơ sở Đống Đa 
+                <LI> Cấp III học tại THPT Lê Quý Đôn - Đống Đa
+                <LI> 12 năm liền đạt danh hiệu học sinh giỏi
+                <LI> Hiện tại đang là sinh viên năm cuối Khoa Hệ Thống Thông Tin Quản Lý - Học Viện Ngân Hàng
+            </UL>
+        </p>
+
+        <IMG SRC = "G:\học\LẬP TRÌNH WEB\bài về nhà\Image\31054970_1975447232497571_6074939181600837699_n.jpg " width="=320" height="320" Alt ="Đào Thùy Linh học sinh lớp Lập trình web ca 2 thứ 2 và ca 1 thứ 5" Border = 1>
+    </body>
+</html>
