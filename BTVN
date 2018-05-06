@@ -1,0 +1,102 @@
+<html>
+    <header>
+        Bài về nhà
+    </header>
+    <body>
+        <table cellpadding="2" cellspacing = "2" border="1">
+            <caption><H3> Bài 1 </H3></caption>
+            <tr valign ="middle" align = "Center">
+                <th width = "300" colspan="3"> Fresh Fruit </th>
+            </tr>
+            <tr>
+                <td width ="175" rowspan="2" colspan ="2">
+                     It has long been known that a diet that includes at least a few servings of fresh fruit everyday will help keep you healthy, fit and trim
+
+                </td>
+                <td width = "125">
+                    <img src = "G:\học\LẬP TRÌNH WEB\BTVN\images\52935728-bowl-of-fresh-vegetable-salad-top-view.jpg" width ="120" height ="100">
+
+                </td>
+            </tr>
+                
+           
+        </table>
+
+        <table cellpadding="2" cellspacing = "2" border="1">
+            <caption><H3> Bài 2 </H3></caption> 
+            <tr valign ="middle" align = "center" >
+                <th width="525" colspan="7"><I> My tech stock picks </I></th>
+            </tr>
+            <tr valign ="middle" align = "center" > 
+                <th width ="150"colspan="2"> NAME </th>
+                <th width = "75"> SYMBOL </th>
+                <th width = "75"> CURENT </th> 
+                <th width = "75"> 52WK HI </th> 
+                <th width = "75"> 52WK LO </th> 
+                <th width = "75"> P/E RATIO </th>
+            </tr>    
+            <tr valign ="middle" align = "center" > 
+                    <td width ="150"colspan="2"> Microsoft </td>
+                    <td width = "75"> MSFT </td>
+                    <td width = "75"> 86-3/8 </td> 
+                    <td width = "75"> 119-15/16 </td> 
+                    <td width = "75"> 75-1/2 </td> 
+                    <td width = "75"> 56.09 </td>
+            </tr>
+            <tr valign ="middle" align = "center" > 
+                        <td width ="150"colspan="2"> Cisco Systems </td>
+                        <td width = "75"> CSCO </td>
+                        <td width = "75"> 72-1/8 </td> 
+                        <td width = "75"> 82 </td> 
+                        <td width = "75"> 24-13/16 </td> 
+                        <td width = "75"> 400.69 </td>
+            </tr>
+            <tr valign ="middle" align = "center" > 
+                    <td width ="150"colspan="2"> America Online </td>
+                    <td width = "75"> AOL </td>
+                    <td width = "75"> 63 </td> 
+                    <td width = "75"> 95-13/16 </td> 
+                    <td width = "75"> 38-15/32 </td> 
+                    <td width = "75"> 350.00 </td>
+            </tr>
+            <tr valign ="middle" align = "center" > 
+                    <td width ="150"colspan="2"> Qwest Communications </td>
+                    <td width = "75"> Q </td>
+                    <td width = "75"> 44-7/16 </td> 
+                    <td width = "75"> 66 </td> 
+                    <td width = "75"> 23-3/4 </td> 
+                    <td width = "75"> 72.06 </td>
+            </tr>
+            <tr valign ="middle" align = "center" > 
+                    <td width ="150"colspan="2"> Dell Computers </td>
+                    <td width = "75"> Dell </td>
+                    <td width = "75"> 53-59/64 </td> 
+                    <td width ="75"> 59-11/16 </td> 
+                    <td width = "75"> 31-3/8 </td> 
+                    <td width = "75"> 86.97 </td>
+            </tr>    
+
+        </table>
+
+        <table cellpadding="2" cellspacing = "2" border="1">
+            <caption><H3> Bài 4 </H3></caption> 
+            <tr>
+                <td width = "150" colspan ="4" Align ="center" > Top</td>
+        
+            </tr>
+            <tr>
+                <td width = "50" rowspan="2">way left</td>
+                <td width = "100" colspan="2">middle up</td>
+                <td width = "50" rowspan = "2">wayright</td>
+
+            </tr>
+            <tr>
+                <td width = "100" colspan="2">middle down </td>
+            </tr>
+
+        </table>
+
+    </body>
+
+
+</html>
